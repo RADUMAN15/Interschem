@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1672758215 source:c:\users\filip\onedrive\desktop\proiect\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<graphics.h>
+	<winbgim.h>
+
+1670338168 source:d:\cb_proj\proiect\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<graphics.h>
+	<winbgim.h>
+
+1673268018 source:d:\cb_proj\interschem_florin_radu\proiect\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	<graphics.h>
+	<winbgim.h>
+
+1673268018 source:d:\a1_interschema_mandrea_radu_filip_florin\interschema\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	<graphics.h>
+	<winbgim.h>
+
